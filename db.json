@@ -1,0 +1,29 @@
+{
+    "employees": [
+      {
+        "id": "1",
+        "a": "Abel Muriithi",
+        "b": "emp 2400",
+        "c": "manager",
+        "d": "Active",
+        "e": "07:30AM"
+        
+      },
+      {
+        "id": "2",
+        "a": "Mike Muriithi",
+        "b": "emp 2500",
+        "c": "worker",
+        "d": "Active",
+        "e": "07:30AM"
+      },
+      {
+        "id": "3",
+        "a": "John Muriithi",
+        "b": "emp 2600",
+        "c": "accountant",
+        "d": "Active",
+        "e": "07:30AM"
+      }
+    ]
+  }
